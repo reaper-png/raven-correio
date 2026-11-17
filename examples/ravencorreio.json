@@ -1,0 +1,19 @@
+{
+  "skin": {
+    "type": "nickname",
+    "value": "Notch",
+    "slim": false
+  },
+  "allowSendToSelf": true,
+  "maxPendingParcelsPerPlayer": 15,
+  "senderMotionVersion": 2,
+  "senderSpawnDistance": 50.0,
+  "senderWalkSpeed": 0.16,
+  "senderFlySpeed": 0.24,
+  "allowedSkinHosts": [
+    "textures.minecraft.net",
+    "minotar.net",
+    "mc-heads.net",
+    "i.imgur.com"
+  ]
+}

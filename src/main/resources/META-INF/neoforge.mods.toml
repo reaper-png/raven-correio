@@ -1,0 +1,20 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="MIT"
+[[mods]]
+modId="ravencorreio"
+version="0.3.2"
+displayName="Raven Correio"
+description='''Carteiro com GUI e encomendas persistentes para NeoForge 1.21.1.'''
+[[dependencies.ravencorreio]]
+modId="neoforge"
+type="required"
+versionRange="[21.1,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.ravencorreio]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.21.2)"
+ordering="NONE"
+side="BOTH"
